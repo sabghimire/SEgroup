@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>New file</title></head>
+<body>
+<h1>Git file</h1>
+</body>
+<html>
